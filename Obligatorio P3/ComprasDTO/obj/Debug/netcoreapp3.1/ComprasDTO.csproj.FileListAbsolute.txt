@@ -1,0 +1,10 @@
+C:\Users\lilp_\Desktop\Obl P3 EF LQ\Obligatorio P3 222487-278179\Obligatorio P3\ComprasDTO\bin\Debug\netcoreapp3.1\ComprasDTO.deps.json
+C:\Users\lilp_\Desktop\Obl P3 EF LQ\Obligatorio P3 222487-278179\Obligatorio P3\ComprasDTO\bin\Debug\netcoreapp3.1\ComprasDTO.dll
+C:\Users\lilp_\Desktop\Obl P3 EF LQ\Obligatorio P3 222487-278179\Obligatorio P3\ComprasDTO\bin\Debug\netcoreapp3.1\ComprasDTO.pdb
+C:\Users\lilp_\Desktop\Obl P3 EF LQ\Obligatorio P3 222487-278179\Obligatorio P3\ComprasDTO\obj\Debug\netcoreapp3.1\ComprasDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilp_\Desktop\Obl P3 EF LQ\Obligatorio P3 222487-278179\Obligatorio P3\ComprasDTO\obj\Debug\netcoreapp3.1\ComprasDTO.AssemblyInfoInputs.cache
+C:\Users\lilp_\Desktop\Obl P3 EF LQ\Obligatorio P3 222487-278179\Obligatorio P3\ComprasDTO\obj\Debug\netcoreapp3.1\ComprasDTO.AssemblyInfo.cs
+C:\Users\lilp_\Desktop\Obl P3 EF LQ\Obligatorio P3 222487-278179\Obligatorio P3\ComprasDTO\obj\Debug\netcoreapp3.1\ComprasDTO.csproj.CoreCompileInputs.cache
+C:\Users\lilp_\Desktop\Obl P3 EF LQ\Obligatorio P3 222487-278179\Obligatorio P3\ComprasDTO\obj\Debug\netcoreapp3.1\ComprasDTO.dll
+C:\Users\lilp_\Desktop\Obl P3 EF LQ\Obligatorio P3 222487-278179\Obligatorio P3\ComprasDTO\obj\Debug\netcoreapp3.1\ComprasDTO.pdb
+C:\Users\lilp_\Desktop\Obl P3 EF LQ\Obligatorio P3 222487-278179\Obligatorio P3\ComprasDTO\obj\Debug\netcoreapp3.1\ComprasDTO.csproj.AssemblyReference.cache
